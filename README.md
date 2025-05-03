@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johndoe&label=Profile%20views&color=0e75b6&style=flat" alt="johndoe" />
+  <img src="https://komarev.com/ghpvc/?username=imtiaz-dev-0&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz-dev-0" />
 </p>
 
 - 🔭 I’m currently working on **AwesomeProject**
