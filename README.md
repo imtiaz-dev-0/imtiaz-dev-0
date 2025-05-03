@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm John Doe</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
-<!--
-**imtiaz-dev-0/imtiaz-dev-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=johndoe&label=Profile%20views&color=0e75b6&style=flat" alt="johndoe" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **AwesomeProject**
+- 🌱 I’m currently learning **TypeScript and Next.js**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, MongoDB**
+- 📫 How to reach me: **john@example.com**
+- ⚡ Fun fact: I love coffee ☕ and retro games 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <!-- Add more icons as needed -->
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" alt="johndoe" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=radical" alt="GitHub Streak" />
+</p>
