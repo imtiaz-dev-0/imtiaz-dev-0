@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Doe</h1>
+<h1 align="center">Hi 👋, I'm Imtiaz Ahamed</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="center">
@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on **AwesomeProject**
 - 🌱 I’m currently learning **TypeScript and Next.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 How to reach me: **john@example.com**
+- 💬 Ask me about **React, Node.js, MongoDB , Laravel**
+- 📫 How to reach me: **royimtiaz6@gmail.com**
 - ⚡ Fun fact: I love coffee ☕ and retro games 🎮
 
 ---
